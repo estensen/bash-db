@@ -1,4 +1,4 @@
-# basb-db
+# bash-db
 The world's simplest database
 
 ## Set value
@@ -11,4 +11,3 @@ $ bash db.sh db_set hello world
 $ bash db.sh db_get hello
 world
 ```
-
