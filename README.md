@@ -8,7 +8,7 @@ $ bash db.sh db_set hello world
 
 ## Get value
 ```sh
-$ bash db.sh db_get hello"
+$ bash db.sh db_get hello
 world
 ```
 
